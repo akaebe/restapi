@@ -1,0 +1,37 @@
+#fetchbtn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 0 auto;
+    justify-content: center;
+  }
+
+#fetchbtn:hover {
+    background-color: #00ba09;
+}
+.container {
+    width:345px;
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+    display:flexbox;
+    align-content: center;
+    margin-top: 50px;
+    margin-left: 400px;
+    background-color:#4CAF50;
+    color: azure;
+    border-radius: 4px;
+    margin-bottom: 10px;
+
+    
+
+
+}
+  
